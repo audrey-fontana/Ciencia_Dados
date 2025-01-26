@@ -1,10 +1,10 @@
 # Exercícios de Análise de Dados com Python
 
-Bem-vindo(a) a este repositório! Aqui você encontrará exercícios de análise de dados voltados para iniciantes, com foco no aprendizado e utilização do Python para ciência de dados.
+Bem-vindo(a) a este repositório! Aqui compartilho alguns projetos que estou desenvolvendo durante meu aprendizado em Ciência de Dados.
 
 ## Sobre o Repositório
 
-Este repositório é parte do meu processo de aprendizado e iniciação na área de ciência de dados. Ele contém exercícios práticos que abordam conceitos fundamentais e práticas recomendadas para trabalhar com análise de dados. 
+Este repositório contém exercícios práticos que abordam conceitos fundamentais e práticas recomendadas para trabalhar com análise de dados. 
 
 Os exercícios aqui incluídos têm como objetivo:
 
@@ -27,3 +27,5 @@ Fique à vontade para utilizar, modificar ou sugerir melhorias para este reposit
 ---
 
 Espero que este repositório seja útil no seu aprendizado e inspire outros a explorarem o fascinante mundo da ciência de dados.
+
+
